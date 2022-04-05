@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.carousel {
+  width: 1200px;
+  height: 500px;
+  margin: auto;
+}
+.form {
+  text-align: center;
+  width: 1000px;
+  height: 350px;
+  padding: 2rem;
+  background-color: rgb(206, 226, 235);
+  position: relative;
+  margin-top: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer {
+  padding: 15px 10px;
+  background-color: #282c34;
+  width: 100%;
+  color: white;
+  margin-top: 10px;
+}
+
